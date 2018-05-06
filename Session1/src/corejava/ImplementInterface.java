@@ -15,7 +15,7 @@ public void food(int a,int b, int c)
 
 }
 @Override
-public void food(int a,int b
+public void food(int a,int b)
 
 {
 
